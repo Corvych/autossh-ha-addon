@@ -1,5 +1,5 @@
 {
-  "name": "ThomDietrich's Home Assistant Add-ons",
-  "url": "https://github.com/ThomDietrich/home-assistant-addons",
-  "maintainer": "Thomas Dietrich"
+  "name": "Corvych's HA AutoSSH Addon",
+  "url": "https://github.com/Corvych/autossh-ha-addon",
+  "maintainer": "Kirill Karatonov"
 }
