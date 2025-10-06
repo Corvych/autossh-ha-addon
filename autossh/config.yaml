@@ -1,9 +1,9 @@
 name: SSH Tunnel & Forwarding
-version: 1.4.0
+version: 1.4.1
 slug: autossh
 description: >-
   Permanent HA forwarding and domain linking through an SSH tunnel
-url: 'https://github.com/ThomDietrich/home-assistant-addons'
+url: 'https://github.com/Corvych/autossh-ha-addon'
 arch:
   - armhf
   - armv7
